@@ -1,7 +1,11 @@
 🏥 Optimal Hospital Site Selection in Fes, Morocco Using GIS and AHP
+
+
 📌 Project Overview
 
+
 This project aims to support healthcare infrastructure planning in Fes, Morocco, by identifying optimal locations for new hospitals and evaluating the suitability of existing hospital locations using Geographic Information Systems (GIS) and Multi-Criteria Analysis (MCA) techniques, specifically the Analytic Hierarchy Process (AHP).
+
 
 By integrating spatial and non-spatial data within QGIS, this study provides a decision-support tool for urban planners, policymakers, and health authorities to improve accessibility to healthcare services.
 🎯 Objectives
